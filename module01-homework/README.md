@@ -92,7 +92,7 @@ docker run -it \
     --table_name=green_trip_data \
     --url=${URL}
 ```
-**Files are in [folder `docker_sql`](docker_sql/).**
+**Files are in [folder 'docker_sql'](docker_sql/).**
 
 ## Question 3. Trip Segmentation Count
 
@@ -213,7 +213,7 @@ Copy the files from the course repo
 
 Modify the files as necessary to create a GCP Bucket and Big Query Dataset.
 
-**See [folder `terraform`](terraform/).**
+**See [folder 'terraform'](terraform/).**
 
 ## Question 7. Terraform Workflow
 
