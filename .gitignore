@@ -5,7 +5,9 @@
 *.tfstate.*
 **.terraform
 **.terraform.lock.*
+**/terraform/keys/
 **google_credentials.json
+**application_default_credentials.json
 **logs/
 **.env
 **__pycache__/
